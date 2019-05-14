@@ -1805,6 +1805,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/multipart-post-2.0.0/test" />
       </excluded>
     </library>
+    <library name="nanaimo (v0.2.5, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nanaimo-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nanaimo-0.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nanaimo-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nanaimo-0.2.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/nanaimo-0.2.5/bin" />
+      </excluded>
+    </library>
     <library name="nanaimo (v0.2.6, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
