@@ -1129,6 +1129,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/fastlane-plugin-cryptex-0.1.4/bin" />
       </excluded>
     </library>
+    <library name="fastlane-plugin-cryptex (v0.1.5, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/fastlane-plugin-cryptex-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/fastlane-plugin-cryptex-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/fastlane-plugin-cryptex-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/fastlane-plugin-cryptex-0.1.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/fastlane-plugin-cryptex-0.1.5/bin" />
+      </excluded>
+    </library>
     <library name="fastlane-plugin-versioning (v0.3.4, ruby-2.4.1-p111) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
