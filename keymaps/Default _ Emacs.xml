@@ -1,0 +1,129 @@
+<keymap version="1" name="Default + Emacs" parent="Mac OS X 10.5+">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Debug" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorKillRegion">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorKillRingSave">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorKillToWordEnd">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
+  <action id="EditorToggleStickySelection">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="shift meta alt equals" second-keystroke="1" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="shift meta alt equals" second-keystroke="2" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="shift meta alt equals" second-keystroke="3" />
+  </action>
+  <action id="ExpandAllToLevel4">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="4" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad4" />
+    <keyboard-shortcut first-keystroke="shift meta alt equals" second-keystroke="4" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="shift meta alt equals" second-keystroke="5" />
+  </action>
+  <action id="Git.Branches" />
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="SwiftToggleTypeHints">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl meta v" />
+  </action>
+</keymap>
