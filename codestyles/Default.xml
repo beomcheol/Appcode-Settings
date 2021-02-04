@@ -3,8 +3,10 @@
     <option name="INDENT_DIRECTIVE_CHILDREN" value="true" />
   </SwiftCodeStyleSettings>
   <codeStyleSettings language="Swift">
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
